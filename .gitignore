@@ -1,0 +1,6 @@
+# Build and simulation outputs
+build/
+*.vcd
+
+# macOS
+.DS_Store
